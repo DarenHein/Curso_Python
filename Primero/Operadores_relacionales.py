@@ -27,7 +27,7 @@ print(resultado) # en el momento de imprimir esto nos dara un calor false por qu
 
 resultado2 = num3 != num4
 
-print (resultado2)# al imprimir en pantalla nos saldra que es True verdadero por que num3(10)  ES IGUAL num4(10)
+print (resultado2)# al imprimir en pantalla nos saldra que es false verdadero por que num3(10)  ES IGUAL num4(10)
 # al ocupar el operador relacional no es igual estamos mintiendo ya se que es conuso pero con la practica se quita  
 
 
