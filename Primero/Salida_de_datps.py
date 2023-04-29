@@ -1,7 +1,7 @@
 '''
 salida de datos por consola 
 
-hay 3 fordas de sacar datos por consola en lo eprsonal me quedo con la ultima 
+hay 3 fordas de sacar datos por consola en lo personal me quedo con la ultima 
 
 '''
 nombre = "Luis"
