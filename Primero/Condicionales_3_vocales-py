@@ -1,0 +1,25 @@
+# ejercicio 
+'''
+crear un prrgrama que se pude una carcater y este indique si es una vocal
+
+'''
+caracter = input("ingresa un caracter -> ").lower() 
+'''
+
+el metodo .lower() trasnfroma las mayusculas a minusculas 
+
+esto tambien sirver como menu el switch de java pero con puro if 
+
+'''
+if caracter == "a" :
+    print(F" el caracter ingresado es la vocal a ")
+elif caracter == "e" : 
+        print ("el caracter ingresado es la vocal e ")
+elif caracter == "i" : 
+            print ("el caracter ingresado es la vocal i ")
+elif caracter == "o" : 
+                print ("el caracter ingresado es la vocal o ")
+elif caracter == "u" : 
+                    print ("el caracter ingresado es la vocal u ")
+else : 
+    print("caracter no valido ")
