@@ -16,3 +16,4 @@ elif cali3 >= calificacion_minima :
     asignatura.pop(2)
 
 # no se pudo banda aun no aprendo bucles en python pero sabia que necesitamos un bucle 
+
