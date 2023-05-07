@@ -1,0 +1,15 @@
+# pedir un numero pot teclado y decir si es par o inpar 
+
+import time 
+time.sleep(1)
+print("")
+while True : 
+    numero = int (input("ingresa un numero -> "))
+    if numero >= 0 :
+        if numero % 2 == 0 : 
+            print(f"El numero {numero} es par ")
+        else :
+            print(f"el numero no es par ")
+    else : 
+        print("numero no valido ")
+
